@@ -1,0 +1,16 @@
+  main{
+    display: flex;
+  }
+
+  section{
+    width: 100%;
+  }
+
+
+  .load{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 100%;
+  }
